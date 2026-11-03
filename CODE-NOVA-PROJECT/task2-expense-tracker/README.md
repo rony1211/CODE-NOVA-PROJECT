@@ -33,4 +33,8 @@ Net balance   :     19180.76
 ```
 
 ## Screenshots
-![screenshot](screenshots/run.png)
+![View all](task2-view-all.png)
+
+![Summary](task2-summary.png)
+
+![Error handling](task2-error-handling.png)
