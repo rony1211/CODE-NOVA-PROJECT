@@ -23,4 +23,8 @@ See `execution_log_demo.txt` for a real dry-run vs. live-run comparison.
 1. Dry-run first. 2. Never overwrites. 3. Never deletes. 4. Only top-level files are moved. 5. Errors don't stop the run.
 
 ## Screenshots
-![screenshot](screenshots/run.png)
+![Dry run](task3-dry-run.png)
+
+![Real run](task3-real-run.png)
+
+![Duplicate handling](task3-duplicates.png)
