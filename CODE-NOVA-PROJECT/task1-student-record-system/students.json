@@ -1,0 +1,7 @@
+[
+  {"roll_no": "CSE001", "name": "Aarav Sharma", "email": "aarav.sharma@example.com", "gpa": 8.7, "course": "Computer Science"},
+  {"roll_no": "CSE002", "name": "Priya Singh", "email": "priya.singh@example.com", "gpa": 9.1, "course": "Computer Science"},
+  {"roll_no": "ECE001", "name": "Rohan Das", "email": "rohan.das@example.com", "gpa": 7.8, "course": "Electronics"},
+  {"roll_no": "ME001", "name": "Sneha Kumari", "email": "sneha.kumari@example.com", "gpa": 8.2, "course": "Mechanical"},
+  {"roll_no": "CSE003", "name": "Imran Khan", "email": "imran.khan@example.com", "gpa": 8.9, "course": "Computer Science"}
+]

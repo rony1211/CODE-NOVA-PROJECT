@@ -1,0 +1,43 @@
+=== DRY RUN ===
+
+Mode: DRY-RUN (no files will be changed)
+Source: /home/claude/CODE-NOVA-PROJECT/task3-file-organizer/test_folder
+Target: /home/claude/CODE-NOVA-PROJECT/task3-file-organizer/test_folder
+Files to organize: 12
+
+[DRY-RUN] would move: README  ->  Others/README
+[DRY-RUN] would move: backup.zip  ->  Archives/backup.zip
+[DRY-RUN] would move: data.csv  ->  Documents/data.csv
+[DRY-RUN] would move: index.html  ->  Code/index.html
+[DRY-RUN] would move: logo.PNG  ->  Images/logo.PNG
+[DRY-RUN] would move: movie.mp4  ->  Media/movie.mp4
+[DRY-RUN] would move: notes.txt  ->  Documents/notes.txt
+[DRY-RUN] would move: photo.jpg  ->  Images/photo.jpg
+[DRY-RUN] would move: resume.pdf  ->  Documents/resume.pdf
+[DRY-RUN] would move: script.py  ->  Code/script.py
+[DRY-RUN] would move: song.mp3  ->  Media/song.mp3
+[DRY-RUN] would move: unknown.xyz  ->  Others/unknown.xyz
+
+Summary: 12 planned, 0 moved, 0 failed, 1 skipped (folders/links).
+Re-run without --dry-run to apply these changes.
+=== LIVE RUN ===
+
+Mode: LIVE
+Source: /home/claude/CODE-NOVA-PROJECT/task3-file-organizer/test_folder
+Target: /home/claude/CODE-NOVA-PROJECT/task3-file-organizer/test_folder
+Files to organize: 12
+
+[MOVED]   README  ->  Others/README
+[MOVED]   backup.zip  ->  Archives/backup.zip
+[MOVED]   data.csv  ->  Documents/data.csv
+[MOVED]   index.html  ->  Code/index.html
+[MOVED]   logo.PNG  ->  Images/logo.PNG
+[MOVED]   movie.mp4  ->  Media/movie.mp4
+[MOVED]   notes.txt  ->  Documents/notes.txt
+[MOVED]   photo.jpg  ->  Images/photo.jpg
+[MOVED]   resume.pdf  ->  Documents/resume.pdf
+[MOVED]   script.py  ->  Code/script.py
+[MOVED]   song.mp3  ->  Media/song.mp3
+[MOVED]   unknown.xyz  ->  Others/unknown.xyz
+
+Summary: 12 planned, 12 moved, 0 failed, 1 skipped (folders/links).
