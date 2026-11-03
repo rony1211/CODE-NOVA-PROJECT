@@ -22,7 +22,11 @@ python test_student_system.py  # run tests
 ## Screenshots
 Add terminal screenshots here (add / view / search / error handling).
 
-![screenshot](screenshots/run.png)
+![View all students](task1-view-all.png.png)
+
+![Search](task1-search.png)
+
+![Error handling](task1-error-handling.png)
 
 ## Error handling
 Invalid input, duplicate IDs, missing records, corrupted/unwritable files all show a friendly message and never terminate the program.
